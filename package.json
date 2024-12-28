@@ -1,15 +1,15 @@
 {
-  "name": "maszxmods-blockymods-web.vercel.app",
+  "name": "maszxmods-blockymods-web",
   "version": "1.0.0",
   "description": "BM Private",
   "main": "index.js",
-  "scripts": {
+  "scripts": "react-scripts start"
     "start": "node index.js"
   },
   "keywords": [
   "Blockman GO",
   ],
-  "author": "test",
+  "author": "maszxmods-blockymods-web",
   "license": "ISC",
     "dependencies": {
     "express": "^4.19.2"
